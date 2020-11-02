@@ -14,23 +14,23 @@
 	<table class="table">
 		<th>
 			<tr>Lorem.</tr>
-			<tr>Dolorum.</tr>
-			<tr>Hic?</tr>
+			<tr>Commodi!</tr>
+			<tr>Illo!</tr>
 		</th>
 		<th>
 			<td>Lorem.</td>
-			<td>Praesentium?</td>
-			<td>Debitis!</td>
+			<td>Architecto.</td>
+			<td>Enim!</td>
 		</th>
 		<th>
 			<td>Lorem.</td>
-			<td>Vero.</td>
-			<td>Sequi.</td>
+			<td>Nemo.</td>
+			<td>Inventore.</td>
 		</th>
 		<th>
 			<td>Lorem.</td>
-			<td>Dolores!</td>
-			<td>Quidem.</td>
+			<td>Possimus?</td>
+			<td>Animi!</td>
 		</th>
 	</table>
 
